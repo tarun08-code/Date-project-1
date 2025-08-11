@@ -1,3 +1,7 @@
+Demo images 
+
+
+
 💌 Asking Out on a Date - Just for Fun 😄
 Welcome to my spontaneous project! I was a little bored one day and thought, “Why not build a cute little webpage to ask someone out on a date?” So, here it is — a playful and light-hearted web page made just for fun using HTML, CSS, and JavaScript.
 
